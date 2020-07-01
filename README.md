@@ -1,2 +1,2 @@
 # TIC-TAC-TOE
-TIC-TOE-TOE game programmed in python
+TIC-TAC-TOE game programmed in python
